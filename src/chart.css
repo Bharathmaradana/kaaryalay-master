@@ -1,0 +1,244 @@
+
+
+.chart-line{
+        position: relative;
+         border-bottom: 2px dashed #BBBBBF;
+         width: 90vh;
+         margin-left: 8%;
+         margin-top: 5%;
+         margin-bottom: 8%;
+         z-index: 1;
+}
+
+
+.chart-6{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+}
+
+.chart-line-1{
+         border-bottom: 2px solid #BBBBBF;
+         width: 90vh;
+         margin-left: 8%;
+         margin-top: 5%;
+         margin-bottom: 8%;
+         z-index: 1;
+}
+
+.chart-5{
+   position: relative;
+   margin-top: 11.6rem;
+}
+.chart-4{
+    position: absolute;
+    margin-top: 20rem;
+}
+.graph-2{
+    position: absolute;
+    margin-top: 11.3rem !important;
+    margin-left: 4rem;
+    z-index: 10000;
+     display: flex;
+    flex-direction: row;
+}
+.graph-3{
+    display: flex;
+    flex-direction: row;
+    margin-left: 1rem;
+    position: relative;
+}
+.graph-7{
+    display: flex;
+    flex-direction: row;
+    margin-left: 7rem;
+    position: relative;
+}
+.graph-4{
+    border-radius: 25px 25px 0px 0px;
+    position: relative;
+     margin-top:200px;
+    margin-right:34px;
+    width:27px;
+    
+    background:#E7EDF4;;
+    float:right;
+    position:absolute;
+    bottom: 10px;
+    transition: height 2s ease-in-out 
+}
+.graph-5{
+    border-radius: 25px 25px 0px 0px;
+    position: relative;
+     margin-top:200px;
+    margin-left: 2rem;
+    width: 27px;
+    
+    background:#003666;
+    float:right;
+    position:absolute;
+    bottom: 10px;
+    transition: height 2s ease-in-out 
+}
+
+    /* @media screen and (max-width:1300px) {
+        .graph-2{
+            background-color: red;
+        position: absolute;
+        margin-top: 10.3rem;
+        margin-left: 4rem;
+        z-index: 10000;
+        display: flex;
+        flex-direction: row;
+    }
+    } */
+
+
+@media screen and (min-width:1500px) {
+     .graph-2{
+        background-color: red;
+    position: absolute;
+    margin-top: 15.3rem;
+    margin-left: 4rem;
+    z-index: 10000;
+     display: flex;
+    flex-direction: row;
+}
+}
+
+@media screen  and (max-width:1300px){
+
+    .graph-2{
+        background-color: red;
+    position: absolute;
+    margin-top: 8.5rem;
+    margin-left: 4rem;
+    z-index: 10000;
+     display: flex;
+    flex-direction: row;
+}
+
+.graph-4{
+    border-radius: 25px 25px 0px 0px;
+    position: relative;
+     margin-top:120px;
+    margin-right:34px;
+    width:22px;
+    
+    background:#E7EDF4;;
+    float:right;
+    position:absolute;
+    bottom: 10px;
+    transition: height 2s ease-in-out 
+}
+.graph-5{
+    border-radius: 25px 25px 0px 0px;
+    position: relative;
+     margin-top:120px;
+    margin-left: 2rem;
+    width: 22px;
+    
+    background:#003666;
+    float:right;
+    position:absolute;
+    bottom: 10px;
+    transition: height 2s ease-in-out 
+}
+    
+.graph-7{
+    display: flex;
+    flex-direction: row;
+    margin-left: 5.5rem;
+    position: relative;
+}
+
+
+
+.chart-line{
+        position: relative;
+         border-bottom: 2px dashed #BBBBBF;
+         width: 75vh;
+         margin-left: 8%;
+         margin-top: 5%;
+         margin-bottom: 8%;
+         z-index: 1;
+}
+
+
+
+.chart-line-1{
+         border-bottom: 2px solid #BBBBBF;
+         width: 75vh;
+         margin-left: 8%;
+         margin-top: 5%;
+         margin-bottom: 8%;
+         z-index: 1;
+}
+
+}
+
+.graph-5:hover .showing{
+    display: block;
+}
+.showing{
+    display: none;
+}
+
+.graph-4:hover .showing{
+    display: block;
+}
+
+.show-2{
+    align-items: flex-start;
+
+    position: absolute;
+width: 150px;
+height: 92px;
+z-index: 100000000;
+background: #E0791B;
+border-radius: 10px;
+}
+
+.show-p-1{
+    margin-left: 5%;
+    margin-top: 5%;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+letter-spacing: -0.02em;
+
+color: #FFFFFF;
+
+}
+
+.show-p-2{
+     margin-left: 5%;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+letter-spacing: -0.02em;
+
+color: #FFFFFF;
+
+}
+
+.show-p-3{
+     margin-left: 5%;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: -0.02em;
+
+color: #FFFFFF;
+
+}

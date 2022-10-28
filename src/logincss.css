@@ -1,0 +1,213 @@
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Plus&family=Nuosu+SIL&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&family=Nuosu+SIL&display=swap');
+
+
+.st-4 {
+    display: flex;
+    flex-direction: column;
+     width: 70%;
+      font-family: 'Inter', sans-serif;
+    
+font-family: 'Nuosu SIL', serif;
+     
+}
+ .st-2 h1 span{
+         font-family: 'Inter', sans-serif;
+         font-family: 'Nuosu SIL', serif;
+        
+ }
+  .st-2 p{
+          font-family: 'Inter', sans-serif;
+         font-family: 'Nuosu SIL', serif;
+         font-size: 26px;
+        
+ }
+ .login-text{
+  
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 34px;
+line-height: 22px;
+/* identical to box height, or 65% */
+
+letter-spacing: -0.02em;
+
+color: #003666;
+
+ }
+
+ .login-text-1{
+position: relative;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 22px;
+/* or 55% */
+
+letter-spacing: -0.02em;
+
+color: #003666;
+ }
+ .forg-psd{
+  
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+letter-spacing: -0.02em;
+
+color: #303030;
+ }
+.forget-txt{
+    
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+letter-spacing: -0.02em;
+
+color: #003666;
+}
+.st5 {
+    margin-top: 3%;
+     font-family: 'Inter';
+    
+font-family: 'Nuosu SIL', serif;
+   
+}
+
+.img-3{
+  position: relative;
+  width: 100em;
+  height: 70%;
+   margin-top: 10%;
+   margin-right: 30%;
+  font-family: 'Inter';
+  background-color: white;
+  
+    
+font-family: 'Nuosu SIL', serif;
+}
+
+.f-1 {
+    margin-top: 3%;
+    margin-right: 6%;
+     font-family: 'Inter';
+     background-color:whites;
+    
+font-family: 'Nuosu SIL', serif;
+
+}
+.btn {
+    border-radius: 3px;
+    margin-top: 10%;
+     font-family: 'Inter';
+    
+font-family: 'Nuosu SIL', serif;
+}
+
+.logo-2 {
+    float: right;
+    height: 5rem;
+    margin-right: 5%;
+   margin-top: 1%;
+    font-family: 'Inter';
+    
+font-family: 'Nuosu SIL', serif;
+    
+}
+.st {
+    position: relative;
+    align-items: center;
+   
+    justify-content: center;
+    margin-left: 5%;
+    width: 80%;
+     font-family: 'Inter';
+    
+font-family: 'Nuosu SIL', serif;
+    
+}
+h1 span {
+    color: #E0791B;
+     font-family: 'Inter';
+    
+font-family: 'Nuosu SIL', serif;
+    
+}
+p span{
+     color: #E0791B;
+      font-family: 'Inter';
+    
+font-family: 'Nuosu SIL', serif;
+}
+.st-6 {
+    margin-top: 1%;
+    display: flex;
+    margin-right: 1%;
+     font-family: 'Inter';
+    
+font-family: 'Nuosu SIL', serif;
+}
+
+.st-6 p span{
+    color:#003666; font-family: 'Inter';
+    
+font-family: 'Nuosu SIL', serif;
+}
+
+
+.intp{
+    top: 2%;
+    width: 100%;
+     font-family: 'Inter';
+    
+font-family: 'Nuosu SIL', serif;
+}
+
+.wrapper {
+  position: relative;
+  font-family: 'Inter';
+    
+font-family: 'Nuosu SIL', serif;
+  width: 100%;
+ 
+}
+
+.eye-logo {
+  position: absolute;
+  top: 67%;
+  margin-right: 5%;
+  bottom: 12%;
+  right: 0;
+   font-family: 'Inter';
+    
+font-family: 'Nuosu SIL', serif;
+}
+.fm-1 {
+  margin-left: 0%;
+}
+
+.dont-txt {
+    
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+letter-spacing: -0.02em;
+
+color: #BBBBBF;
+}
+
+.dont-txt Link{
+  list-style-type: none;
+  text-decoration: none;
+}
